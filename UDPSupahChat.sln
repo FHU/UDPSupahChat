@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPSupahChat", "UDPSupahChat\UDPSupahChat.csproj", "{4ADF7BA2-9264-4424-A62E-FAFD6337D2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ADF7BA2-9264-4424-A62E-FAFD6337D2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADF7BA2-9264-4424-A62E-FAFD6337D2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADF7BA2-9264-4424-A62E-FAFD6337D2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADF7BA2-9264-4424-A62E-FAFD6337D2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
